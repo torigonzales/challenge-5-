@@ -20,7 +20,7 @@ This week we were challenged to create a Daily planner!
 
 ## Challenges
 
-Luckily we were given some starter code this week to start off the challnege! That made this application a little easier to build! 
+Luckily we were given some starter code this week to start off the challenge! That made this application a little easier to build! 
 
 ---
 
