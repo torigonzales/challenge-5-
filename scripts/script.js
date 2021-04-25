@@ -77,7 +77,7 @@ $(this).click(function (event) {
     localStorage.setItem('time012', JSON.stringify(time012));
 });
 
-var loadTasks = function () {
+var loadTimes = function () {
 
     // 9:00
     time9 = JSON.parse(localStorage.getItem('time9'))
@@ -129,7 +129,7 @@ var loadTasks = function () {
     inputTime012.textContent = time012;
 }
 
-loadTasks();
+loadTimes();
 
 auditTime();
 
@@ -137,6 +137,6 @@ var inputTime06 = '06:00';
 var convertedTime = moment(inputTime06);
 
 
-console.log(convertedTime.toNow());
-console.log(convertedTime.diff(moment(), 'hour'));
+
+
 
