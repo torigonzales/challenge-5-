@@ -42,7 +42,7 @@ This challenge was fun to do! I felt a little more confident this challenge!
 
 ## Resources 
 
-<a href="https://github.com/torigonzales/challenge-5">GitHub Repo</a>
+<a href="https://github.com/torigonzales/challenge-5-">GitHub Repo</a>
 
 <a href="https://www.youtube.com/watch?v=eVGEea7adDM"> YouTube</a>
 
