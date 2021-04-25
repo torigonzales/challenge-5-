@@ -25,35 +25,24 @@ Luckily we were given some starter code this week to start off the challnege! Th
 
 ---
 
-
-<img src= "./images/challenges1.png"/>
-
-
-
-
----
-
 ## Victories
-I really enjoyed designing the page and using "Coolors" as a resource for color pallets!
+This challenge was fun to do! I felt a little more confident this challenge! 
 
-<img src= "./images/styles2.png"/>
+<img src="./images/daily-planner.png"/>
 
----
-The app started to come along really nicely as I began to add style to it!
 
-<img src= "./images/style1.png"/>
 
 ---
 
-The design aspect is proabably my favorite part of the process. I found another really cool resource for adding icons! I decided to utilize that also! 
 
-<img src= "./images/resources1.png"/>
+---
+
 
 
 
 ## Resources 
 
-<a href="https://github.com/torigonzales/challenged-4">GitHub Repo</a>
+<a href="https://github.com/torigonzales/challenge-5">GitHub Repo</a>
 
 <a href="https://www.youtube.com/watch?v=eVGEea7adDM"> YouTube</a>
 
@@ -61,5 +50,4 @@ The design aspect is proabably my favorite part of the process. I found another 
 
 <a href="https://www.w3schools.com/charsets/ref_html_ascii.asp">w3 Schools</a>
 
-<a href="https://coolors.co/">Coolors</a>
 

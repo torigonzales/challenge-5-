@@ -28,52 +28,52 @@ $(this).click(function (event) {
     event.preventDefault();
 
     // 09:00
-    var time09 = document.getElementById('task-input-9').value;
+    var time09 = document.getElementById('time-input-9').value;
     localStorage.setItem('time09', JSON.stringify(time09));
     // 10:00
-    var time10 = document.getElementById('task-input-10').value;
+    var time10 = document.getElementById('time-input-10').value;
     localStorage.setItem('time10', JSON.stringify(time10));
     // 11:00
-    var time11 = document.getElementById('task-input-11').value;
+    var time11 = document.getElementById('time-input-11').value;
     localStorage.setItem('time11', JSON.stringify(time11));
     // 12:00
-    var time12 = document.getElementById('task-input-12').value;
+    var time12 = document.getElementById('time-input-12').value;
     localStorage.setItem('time12', JSON.stringify(time12));
     // 1:00
-    var time01 = document.getElementById('task-input-10').value;
+    var time01 = document.getElementById('time-input-10').value;
     localStorage.setItem('time01', JSON.stringify(time01));
     // 2:00
-    var time02 = document.getElementById('task-input-11').value;
+    var time02 = document.getElementById('time-input-11').value;
     localStorage.setItem('time02', JSON.stringify(time02));
     // 3:00
-    var time03 = document.getElementById('task-input-12').value;
+    var time03 = document.getElementById('time-input-12').value;
     localStorage.setItem('time03', JSON.stringify(time03));
     // 4:00
-    var time03 = document.getElementById('task-input-13').value;
+    var time03 = document.getElementById('time-input-13').value;
     localStorage.setItem('time03', JSON.stringify(time03));
     // 5:00
-    var time05 = document.getElementById('task-input-14').value;
+    var time05 = document.getElementById('time-input-14').value;
     localStorage.setItem('time05', JSON.stringify(time05));
     // 6:00
-    var time06 = document.getElementById('task-input-15').value;
+    var time06 = document.getElementById('time-input-15').value;
     localStorage.setItem('time06', JSON.stringify(time06));
     // 7:00
-    var time07 = document.getElementById('task-input-16').value;
+    var time07 = document.getElementById('time-input-16').value;
     localStorage.setItem('time07', JSON.stringify(time07));
     // 8:00
-    var time08 = document.getElementById('task-input-17').value;
+    var time08 = document.getElementById('time-input-17').value;
     localStorage.setItem('time08', JSON.stringify(time08));
     // 9:00
-    var time09 = document.getElementById('task-input-18').value;
+    var time09 = document.getElementById('time-input-18').value;
     localStorage.setItem('time09', JSON.stringify(time09));
     // 10:00
-    var time10 = document.getElementById('task-input-19').value;
+    var time10 = document.getElementById('time-input-19').value;
     localStorage.setItem('time10', JSON.stringify(time10));
     // 11:00
-    var time011 = document.getElementById('task-input-20').value;
+    var time011 = document.getElementById('time-input-20').value;
     localStorage.setItem('time011', JSON.stringify(time011));
     // 12:00
-    var time012 = document.getElementById('task-input-21').value;
+    var time012 = document.getElementById('time-input-21').value;
     localStorage.setItem('time012', JSON.stringify(time012));
 });
 
