@@ -15,8 +15,7 @@ Daily Planner- Challenge-5
 Challenge #5- Daily Planner 
 
 ## Introduction 
-This week we were challenged to create a Daily planner! I am a little late to turning in this challenge! I have been out of town!
-
+This week we were challenged to create a Daily planner! 
 ---
 
 ## Challenges
