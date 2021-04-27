@@ -27,7 +27,7 @@ Luckily we were given some starter code this week to start off the challenge! Th
 ## Victories
 This challenge was fun to do! I felt a little more confident this challenge! 
 
-<img src="./images/daily-planner.png"/>
+<img src="./images/daily-planner1.png"/>
 
 
 
